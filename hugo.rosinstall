@@ -1,0 +1,4 @@
+- git:
+    local-name: realsense
+    uri: https://github.com/intel-ros/realsense.git
+    version:
